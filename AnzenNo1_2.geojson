@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "AnzenNo1_2",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4612" } },
 "features": [
 { "type": "Feature", "properties": { "番号": 1, "経度": 135.5752556, "緯度": 34.844325, "説明": "二人しか通れない道幅で交通量が多いにもかかわらず柵がない" }, "geometry": { "type": "Point", "coordinates": [ 135.5752556, 34.844325 ] } },
 { "type": "Feature", "properties": { "番号": 2, "経度": 135.5749194, "緯度": 34.84386111, "説明": "柵がなくて危険" }, "geometry": { "type": "Point", "coordinates": [ 135.5749194, 34.84386111 ] } },
